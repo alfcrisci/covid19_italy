@@ -1,2 +1,2 @@
 # covid19_italy
-Province maps of incidence and daily rate
+Province maps of realtive incidence and daily rate.
